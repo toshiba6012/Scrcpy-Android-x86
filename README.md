@@ -7,6 +7,9 @@
 - scrcpy-android uses ADB-Connect interface to connect to android device to be mirrored.
 
 ## Scrcpy Android-x86
+![20221201_215842](https://user-images.githubusercontent.com/51103416/205230616-7dedcf3a-5460-428b-acfe-b3de5aeda08c.jpg)
+
+
 
 - This is a fork of https://gitlab.com/las2mile/scrcpy-android the big difference to this fork is that it is fullscreen. That means no padding on your tablet. All distros of Android-x86 are supported of this app it's better than a vnc with no lag and excellent graphics and user control.'
 
@@ -39,6 +42,7 @@
 
 
     
+
     
  
 ## LICENSE
