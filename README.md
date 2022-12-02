@@ -35,9 +35,9 @@
 - To bring back the local android system navbar while mirroring the remote device, **swipe up from the bottom edge of screen**.
 
 
-## Building with Gradle
 
-    ./gradlew assembleDebug
+
+
     
     
  
